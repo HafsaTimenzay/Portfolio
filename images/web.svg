@@ -4,165 +4,166 @@
 <desc>Created with Fabric.js 5.2.4</desc>
 <defs>
 </defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
 <g transform="matrix(1 0 0 1 540 540)" id="d96573c3-d5c2-40da-8454-ab43d2ad3064"  >
 <rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
 </g>
 <g transform="matrix(1 0 0 1 540 540)" id="560404a6-ebd6-4829-b725-b46240171ada"  >
 </g>
-<g transform="matrix(1.76 0 0 1.76 540 540)"  >
+<g transform="matrix(1.56 0 0 1.5 475.17 244.85)"  >
 <g style=""   >
-		<g transform="matrix(1 0 0 1 0 131.59)" clip-path="url(#CLIPPATH_3)"  >
-<clipPath id="CLIPPATH_3" >
+		<g transform="matrix(1 0 0 1 0 131.59)" clip-path="url(#CLIPPATH_107)"  >
+<clipPath id="CLIPPATH_107" >
 	<rect transform="matrix(1 0 0 1 0 -131.59)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(47,46,67); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-306, -295.09)" d="M 0 295.086 C 0 295.749 0.689414 296.278 1.55279 296.278 L 610.447 296.278 C 611.304 296.278 612 295.749 612 295.086 C 612 294.423 611.311 293.894 610.447 293.894 L 1.55279 293.894 C 0.695857 293.894 0 294.423 0 295.086 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 0.64 -15.11)" clip-path="url(#CLIPPATH_4)"  >
-<clipPath id="CLIPPATH_4" >
+		<g transform="matrix(1 0 0 1 0.64 -15.11)" clip-path="url(#CLIPPATH_108)"  >
+<clipPath id="CLIPPATH_108" >
 	<rect transform="matrix(1 0 0 1 -0.64 15.11)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(47,46,65); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-306.64, -148.39)" d="M 508.485 296.771 L 104.804 296.771 L 104.804 12.2085 C 104.804 5.48009 109.804 0 115.957 0 L 497.332 0 C 503.479 0 508.485 5.47304 508.485 12.2085 L 508.485 296.771 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 0.15 147.63)" clip-path="url(#CLIPPATH_5)"  >
-<clipPath id="CLIPPATH_5" >
+		<g transform="matrix(1 0 0 1 0.15 147.63)" clip-path="url(#CLIPPATH_109)"  >
+<clipPath id="CLIPPATH_109" >
 	<rect transform="matrix(1 0 0 1 -0.15 -147.63)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(247,243,245); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-306.15, -311.13)" d="M 542.086 327 L 70.1978 327 C 68.5677 327 67.234 325.893 66.7894 324.172 C 66.3513 322.458 66.9634 320.744 68.3551 319.82 L 105.139 295.255 L 508.62 295.255 L 508.736 295.333 L 543.993 319.855 C 545.352 320.801 545.945 322.507 545.494 324.207 C 545.043 325.9 543.709 327 542.099 327 L 542.086 327 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 0.41 -15.36)" clip-path="url(#CLIPPATH_6)"  >
-<clipPath id="CLIPPATH_6" >
+		<g transform="matrix(1 0 0 1 0.41 -15.36)" clip-path="url(#CLIPPATH_110)"  >
+<clipPath id="CLIPPATH_110" >
 	<rect transform="matrix(1 0 0 1 -0.41 15.36)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-306.41, -148.14)" d="M 497.435 18.14 L 115.39 18.14 L 115.39 278.131 L 497.435 278.131 L 497.435 18.14 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 1.33 138.89)" clip-path="url(#CLIPPATH_7)"  >
-<clipPath id="CLIPPATH_7" >
+		<g transform="matrix(1 0 0 1 1.33 138.89)" clip-path="url(#CLIPPATH_111)"  >
+<clipPath id="CLIPPATH_111" >
 	<rect transform="matrix(1 0 0 1 -1.33 -138.89)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(47,46,65); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-307.33, -302.39)" d="M 512.164 311.385 L 102.504 311.385 L 122.754 293.4 L 492.835 293.4 L 512.164 311.385 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 0.42 153.93)" clip-path="url(#CLIPPATH_8)"  >
-<clipPath id="CLIPPATH_8" >
+		<g transform="matrix(1 0 0 1 0.42 153.93)" clip-path="url(#CLIPPATH_112)"  >
+<clipPath id="CLIPPATH_112" >
 	<rect transform="matrix(1 0 0 1 -0.42 -153.93)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(47,46,65); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-306.42, -317.43)" d="M 403.539 323.474 L 209.292 323.474 L 216.656 311.385 L 396.175 311.385 L 403.539 323.474 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 104.8 -46.04)" clip-path="url(#CLIPPATH_9)"  >
-<clipPath id="CLIPPATH_9" >
+		<g transform="matrix(1 0 0 1 104.8 -46.04)" clip-path="url(#CLIPPATH_113)"  >
+<clipPath id="CLIPPATH_113" >
 	<rect transform="matrix(1 0 0 1 -104.8 46.04)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(247,243,245); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-410.8, -117.46)" d="M 420.916 120.95 L 400.678 120.95 C 398.919 120.95 397.489 119.384 397.489 117.459 C 397.489 115.533 398.919 113.968 400.678 113.968 L 420.916 113.968 C 422.675 113.968 424.106 115.533 424.106 117.459 C 424.106 119.384 422.675 120.95 420.916 120.95 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 133.47 -46.04)" clip-path="url(#CLIPPATH_10)"  >
-<clipPath id="CLIPPATH_10" >
+		<g transform="matrix(1 0 0 1 133.47 -46.04)" clip-path="url(#CLIPPATH_114)"  >
+<clipPath id="CLIPPATH_114" >
 	<rect transform="matrix(1 0 0 1 -133.47 46.04)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(247,243,245); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-439.47, -117.46)" d="M 444.189 120.95 L 434.743 120.95 C 432.984 120.95 431.554 119.384 431.554 117.459 C 431.554 115.533 432.984 113.968 434.743 113.968 L 444.189 113.968 C 445.948 113.968 447.378 115.533 447.378 117.459 C 447.378 119.384 445.948 120.95 444.189 120.95 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 -118.5 -46.13)" clip-path="url(#CLIPPATH_11)"  >
-<clipPath id="CLIPPATH_11" >
+		<g transform="matrix(1 0 0 1 -118.5 -46.13)" clip-path="url(#CLIPPATH_115)"  >
+<clipPath id="CLIPPATH_115" >
 	<rect transform="matrix(1 0 0 1 118.5 46.13)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(237,214,225); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-187.5, -117.37)" d="M 218.293 123.616 L 156.697 123.616 C 153.552 123.616 150.995 120.816 150.995 117.374 C 150.995 113.932 153.552 111.132 156.697 111.132 L 218.293 111.132 C 221.437 111.132 223.995 113.932 223.995 117.374 C 223.995 120.816 221.437 123.616 218.293 123.616 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 -135.94 -27.04)" clip-path="url(#CLIPPATH_12)"  >
-<clipPath id="CLIPPATH_12" >
+		<g transform="matrix(1 0 0 1 -135.94 -27.04)" clip-path="url(#CLIPPATH_116)"  >
+<clipPath id="CLIPPATH_116" >
 	<rect transform="matrix(1 0 0 1 135.94 27.04)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(247,243,245); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-170.06, -136.46)" d="M 184.898 140.268 L 155.215 140.268 C 153.301 140.268 151.736 138.561 151.736 136.459 C 151.736 134.357 153.295 132.651 155.215 132.651 L 184.898 132.651 C 186.812 132.651 188.378 134.357 188.378 136.459 C 188.378 138.561 186.818 140.268 184.898 140.268 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 -54.5 -12.01)" clip-path="url(#CLIPPATH_13)"  >
-<clipPath id="CLIPPATH_13" >
+		<g transform="matrix(1 0 0 1 -54.5 -12.01)" clip-path="url(#CLIPPATH_117)"  >
+<clipPath id="CLIPPATH_117" >
 	<rect transform="matrix(1 0 0 1 54.5 12.01)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(247,243,245); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-251.5, -151.49)" d="M 348.541 155.297 L 154.467 155.297 C 152.554 155.297 150.988 153.591 150.988 151.489 C 150.988 149.387 152.547 147.68 154.467 147.68 L 348.541 147.68 C 350.454 147.68 352.02 149.387 352.02 151.489 C 352.02 153.591 350.461 155.297 348.541 155.297 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 -62.85 -1.85)" clip-path="url(#CLIPPATH_14)"  >
-<clipPath id="CLIPPATH_14" >
+		<g transform="matrix(1 0 0 1 -62.85 -1.85)" clip-path="url(#CLIPPATH_118)"  >
+<clipPath id="CLIPPATH_118" >
 	<rect transform="matrix(1 0 0 1 62.85 1.85)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(247,243,245); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-243.15, -161.65)" d="M 331.847 165.454 L 154.467 165.454 C 152.554 165.454 150.988 163.747 150.988 161.645 C 150.988 159.543 152.547 157.837 154.467 157.837 L 331.84 157.837 C 333.754 157.837 335.319 159.543 335.319 161.645 C 335.319 163.747 333.76 165.454 331.84 165.454 L 331.847 165.454 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 229.67 -60.23)" clip-path="url(#CLIPPATH_15)"  >
-<clipPath id="CLIPPATH_15" >
+		<g transform="matrix(1 0 0 1 229.67 -60.23)" clip-path="url(#CLIPPATH_119)"  >
+<clipPath id="CLIPPATH_119" >
 	<rect transform="matrix(1 0 0 1 -229.67 60.23)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(242,167,170); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-535.67, -103.27)" d="M 540.41 107.331 L 530.926 110.744 L 530.926 95.7923 L 539.534 95.7923 L 540.41 107.331 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 226.1 -73.91)" clip-path="url(#CLIPPATH_16)"  >
-<clipPath id="CLIPPATH_16" >
+		<g transform="matrix(1 0 0 1 226.1 -73.91)" clip-path="url(#CLIPPATH_120)"  >
+<clipPath id="CLIPPATH_120" >
 	<rect transform="matrix(1 0 0 1 -226.1 73.91)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(242,167,170); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-532.1, -89.59)" d="M 532.099 99.9323 C 537.319 99.9323 541.551 95.3 541.551 89.5857 C 541.551 83.8715 537.319 79.2391 532.099 79.2391 C 526.879 79.2391 522.647 83.8715 522.647 89.5857 C 522.647 95.3 526.879 99.9323 532.099 99.9323 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 229.6 -76.76)" clip-path="url(#CLIPPATH_17)"  >
-<clipPath id="CLIPPATH_17" >
+		<g transform="matrix(1 0 0 1 229.6 -76.76)" clip-path="url(#CLIPPATH_121)"  >
+<clipPath id="CLIPPATH_121" >
 	<rect transform="matrix(1 0 0 1 -229.6 76.76)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(54,52,78); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-535.6, -86.74)" d="M 534.695 88.5631 C 533.11 88.5137 532.073 86.7575 531.461 85.1636 C 530.849 83.5626 530.211 81.7288 528.748 81.0659 C 527.55 80.5228 525.43 84.1691 524.483 83.2029 C 523.497 82.1943 524.457 76.9893 525.508 76.0583 C 526.558 75.1273 527.988 74.944 529.341 74.8734 C 532.634 74.7042 535.952 75.0004 539.18 75.7339 C 541.177 76.1923 543.233 76.8764 544.676 78.4563 C 546.499 80.4593 546.97 83.485 547.098 86.3132 C 547.234 89.2049 547.079 92.2376 545.797 94.7626 C 544.515 97.2945 541.822 99.1636 539.244 98.5147 C 538.987 96.9772 539.244 95.4044 539.347 93.8457 C 539.444 92.287 539.347 90.6084 538.478 89.3671 C 537.608 88.1258 535.752 87.6391 534.741 88.7394" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 242.57 -68.13)" clip-path="url(#CLIPPATH_18)"  >
-<clipPath id="CLIPPATH_18" >
+		<g transform="matrix(1 0 0 1 242.57 -68.13)" clip-path="url(#CLIPPATH_122)"  >
+<clipPath id="CLIPPATH_122" >
 	<rect transform="matrix(1 0 0 1 -242.57 68.13)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(54,52,78); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-548.57, -95.37)" d="M 546.325 92.1459 C 547.272 91.3842 548.4 90.7565 549.566 90.9117 C 550.823 91.0809 551.886 92.2165 552.208 93.5565 C 552.53 94.8966 552.169 96.3777 551.39 97.4709 C 550.61 98.5641 549.457 99.2905 548.232 99.6573 C 547.524 99.8688 546.751 99.9535 546.074 99.6361 C 545.082 99.1706 544.547 97.7741 544.934 96.6739" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 226.84 117.05)" clip-path="url(#CLIPPATH_19)"  >
-<clipPath id="CLIPPATH_19" >
+		<g transform="matrix(1 0 0 1 226.84 117.05)" clip-path="url(#CLIPPATH_123)"  >
+<clipPath id="CLIPPATH_123" >
 	<rect transform="matrix(1 0 0 1 -226.84 -117.05)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(242,167,170); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-532.84, -280.55)" d="M 537.279 273.652 L 528.394 273.652 L 528.394 287.447 L 537.279 287.447 L 537.279 273.652 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 219.03 124.42)" clip-path="url(#CLIPPATH_20)"  >
-<clipPath id="CLIPPATH_20" >
+		<g transform="matrix(1 0 0 1 219.03 124.42)" clip-path="url(#CLIPPATH_124)"  >
+<clipPath id="CLIPPATH_124" >
 	<rect transform="matrix(1 0 0 1 -219.03 -124.42)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(54,52,78); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-525.03, -287.92)" d="M 519.741 295.805 C 518.807 295.805 517.976 295.777 517.351 295.713 C 514.992 295.474 512.737 293.569 511.603 292.455 C 511.094 291.954 510.933 291.157 511.197 290.466 C 511.384 289.972 511.764 289.606 512.235 289.457 L 518.472 287.504 L 528.568 280.042 L 528.678 280.261 C 528.723 280.345 529.708 282.299 530.044 283.618 C 530.172 284.118 530.134 284.542 529.947 284.866 C 529.812 285.092 529.631 285.219 529.477 285.296 C 529.657 285.508 530.23 285.931 531.996 286.241 C 534.567 286.693 535.114 283.766 535.134 283.646 L 535.153 283.547 L 535.23 283.491 C 536.454 282.623 537.208 282.235 537.472 282.32 C 537.633 282.376 537.904 282.461 538.639 290.424 C 538.709 290.671 539.225 292.504 538.877 294.253 C 538.497 296.158 530.894 295.502 529.373 295.354 C 529.328 295.354 523.639 295.805 519.735 295.805 L 519.741 295.805 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 256.14 107.73)" clip-path="url(#CLIPPATH_21)"  >
-<clipPath id="CLIPPATH_21" >
+		<g transform="matrix(1 0 0 1 256.14 107.73)" clip-path="url(#CLIPPATH_125)"  >
+<clipPath id="CLIPPATH_125" >
 	<rect transform="matrix(1 0 0 1 -256.14 -107.73)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(242,167,170); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-562.14, -271.23)" d="M 562.575 262.803 L 555.036 267.95 L 561.705 279.655 L 569.244 274.508 L 562.575 262.803 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 255.24 118.48)" clip-path="url(#CLIPPATH_22)"  >
-<clipPath id="CLIPPATH_22" >
+		<g transform="matrix(1 0 0 1 255.24 118.48)" clip-path="url(#CLIPPATH_126)"  >
+<clipPath id="CLIPPATH_126" >
 	<rect transform="matrix(1 0 0 1 -255.24 -118.48)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(54,52,78); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-561.24, -281.98)" d="M 552.569 293.915 C 551.525 293.915 550.565 293.781 549.882 293.647 C 549.212 293.52 548.683 292.935 548.574 292.194 C 548.497 291.665 548.638 291.136 548.967 290.734 L 553.316 285.466 L 558.277 273.285 L 558.477 273.405 C 558.554 273.447 560.339 274.534 561.26 275.465 C 561.608 275.817 561.782 276.191 561.776 276.579 C 561.776 276.847 561.679 277.066 561.589 277.214 C 561.847 277.284 562.536 277.312 564.186 276.551 C 566.589 275.443 565.635 272.643 565.597 272.523 L 565.564 272.432 L 565.603 272.34 C 566.228 270.894 566.673 270.125 566.937 270.048 C 567.098 269.999 567.375 269.921 571.84 276.247 C 572.02 276.417 573.341 277.672 573.895 279.365 C 574.495 281.199 567.723 285.049 566.363 285.804 C 566.318 285.839 559.237 291.475 556.331 293.076 C 555.178 293.71 553.812 293.908 552.569 293.908 L 552.569 293.915 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 235.39 54.22)" clip-path="url(#CLIPPATH_23)"  >
-<clipPath id="CLIPPATH_23" >
+		<g transform="matrix(1 0 0 1 235.39 54.22)" clip-path="url(#CLIPPATH_127)"  >
+<clipPath id="CLIPPATH_127" >
 	<rect transform="matrix(1 0 0 1 -235.39 -54.22)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(54,52,78); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-541.39, -217.72)" d="M 543.825 158.253 L 518.948 158.253 L 516.693 183.587 L 526.571 277.185 L 539.27 277.185 L 534.193 223.125 L 554.792 271.931 L 566.08 263.284 L 549.991 217.723 C 549.991 217.723 555.739 178.029 551.222 168.141 C 546.705 158.253 543.825 158.253 543.825 158.253 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 230.44 -31.66)" clip-path="url(#CLIPPATH_24)"  >
-<clipPath id="CLIPPATH_24" >
+		<g transform="matrix(1 0 0 1 230.44 -31.66)" clip-path="url(#CLIPPATH_128)"  >
+<clipPath id="CLIPPATH_128" >
 	<rect transform="matrix(1 0 0 1 -230.44 31.66)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(91,97,179); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-536.44, -131.84)" d="M 556.196 159.797 L 516.687 159.797 L 528.542 103.889 L 545.752 103.889 L 556.196 159.797 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 205.69 -55.16)" clip-path="url(#CLIPPATH_25)"  >
-<clipPath id="CLIPPATH_25" >
+		<g transform="matrix(1 0 0 1 205.69 -55.16)" clip-path="url(#CLIPPATH_129)"  >
+<clipPath id="CLIPPATH_129" >
 	<rect transform="matrix(1 0 0 1 -205.69 55.16)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(242,167,170); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-511.69, -108.34)" d="M 506.874 102.782 C 506.243 99.3822 507.396 96.2719 509.451 95.8417 C 511.507 95.4114 513.678 97.8165 514.309 101.223 C 514.58 102.577 514.535 103.981 514.187 105.321 L 516.687 119.772 L 510.231 120.886 L 508.453 106.527 C 507.654 105.434 507.112 104.15 506.874 102.782 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 220.55 -40.45)" clip-path="url(#CLIPPATH_26)"  >
-<clipPath id="CLIPPATH_26" >
+		<g transform="matrix(1 0 0 1 220.55 -40.45)" clip-path="url(#CLIPPATH_130)"  >
+<clipPath id="CLIPPATH_130" >
 	<rect transform="matrix(1 0 0 1 -220.55 40.45)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(91,97,179); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-526.55, -123.05)" d="M 545.333 103.889 L 530.153 103.889 L 519.921 126.296 L 516.062 109.51 L 507.583 110.498 C 507.583 110.498 509.587 143.301 518.362 142.193 C 527.131 141.086 547.588 111.527 545.339 103.896 L 545.333 103.889 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 251.47 20.04)" clip-path="url(#CLIPPATH_27)"  >
-<clipPath id="CLIPPATH_27" >
+		<g transform="matrix(1 0 0 1 251.47 20.04)" clip-path="url(#CLIPPATH_131)"  >
+<clipPath id="CLIPPATH_131" >
 	<rect transform="matrix(1 0 0 1 -251.47 -20.04)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(242,167,170); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-557.47, -183.54)" d="M 562.291 189.095 C 562.923 192.494 561.769 195.605 559.714 196.035 C 557.659 196.465 555.487 194.06 554.856 190.654 C 554.585 189.299 554.63 187.896 554.978 186.556 L 552.478 172.105 L 558.934 170.99 L 560.713 185.35 C 561.512 186.443 562.053 187.727 562.291 189.095 Z" stroke-linecap="round" />
 </g>
-		<g transform="matrix(1 0 0 1 243.3 -20.68)" clip-path="url(#CLIPPATH_28)"  >
-<clipPath id="CLIPPATH_28" >
+		<g transform="matrix(1 0 0 1 243.3 -20.68)" clip-path="url(#CLIPPATH_132)"  >
+<clipPath id="CLIPPATH_132" >
 	<rect transform="matrix(1 0 0 1 -243.3 20.68)" id="clip0_234_158" x="-306" y="-163.5" rx="0" ry="0" width="612" height="327" />
 </clipPath>
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(91,97,179); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-549.3, -142.82)" d="M 536.68 103.889 C 536.68 103.889 545.307 103.487 545.752 103.889 C 548.104 105.998 561.918 181.936 561.918 181.936 L 553.168 181.936 L 536.674 103.889 L 536.68 103.889 Z" stroke-linecap="round" />
