@@ -20,7 +20,7 @@
 }
 
 body{
-    background: var(--bg-color);
+    background: var(--dark-color);
     margin: 15px 20px;
 }
 
@@ -70,7 +70,7 @@ outline: none;
 box-shadow: none;
 }
 nav .offcanvas{
-    background: #1a18a0af;
+    background: #a3a2d5af;
     backdrop-filter: blur(50%);
 }
 
