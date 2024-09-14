@@ -83,6 +83,7 @@ nav .offcanvas{
     line-height: 8vh;
 }
 .home .left-side .content h1{
+    font-weight: 700;
     font-size: 60px;
 }
 .home .left-side .content h1 span{
