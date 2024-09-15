@@ -20,7 +20,7 @@
 }
 
 body{
-    background: var(--dark-color);
+    background: var(--bg-color);
     margin: 15px 20px;
 }
 
