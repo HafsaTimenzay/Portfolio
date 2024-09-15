@@ -32,7 +32,8 @@ h1,h2{
 /* navbar */
 nav{
     background: var(--bg-color);
-    margin: 5px 0;
+    margin: 0;
+    padding: 5px;
     display: flex;
     justify-content: start;
     align-content: start;
@@ -165,9 +166,12 @@ nav .offcanvas{
     }
 }
 @media (min-width: 540px) and (max-width: 768px)  {
-    .home .right-side{
+    /* .home .right-side{
         width: 100%;
         max-width: 100%;
+    } */
+    .home .left-side .content{
+        margin: 80px auto;
     }
     .home .right-side .svg-mb{
         width: 300px;
@@ -187,6 +191,9 @@ nav .offcanvas{
 @media (max-width: 540px){
     h1{
         font-size: 30px;
+    }
+    .home .left-side .content{
+        margin: 80px auto;
     }
     .home .right-side .svg-mb{
         width: 250px;
