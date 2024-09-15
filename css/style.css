@@ -57,6 +57,10 @@ nav button.btn{
     margin-right: 20px;
     
 }
+nav button.btn a{
+    text-decoration: none;
+    color: var(--write-color);
+}
 nav .custom-toggler {
     border: none; 
     background: transparent; 
@@ -108,8 +112,9 @@ nav .offcanvas{
     border-radius: 5px;
     padding: 5px 30px;
 }
-.home .left-side .home-btns .linkdin a{
+.home .left-side .home-btns a{
     text-decoration: none;
+    color: var(--write-color);
 }
 .home .right-side .svg-mb{
     width: 380px;
@@ -149,7 +154,6 @@ nav .offcanvas{
         font-size: 40px !important;
     }
     .home .left-side .content{
-        /* background: #d7bccb; */
         width: 95%;
     }
     .home .right-side .svg-mb{
@@ -165,11 +169,7 @@ nav .offcanvas{
         
     }
 }
-@media (min-width: 540px) and (max-width: 768px)  {
-    /* .home .right-side{
-        width: 100%;
-        max-width: 100%;
-    } */
+@media (min-width: 540px) and (max-width: 768px) {
     .home .left-side .content{
         margin: 80px auto;
     }
