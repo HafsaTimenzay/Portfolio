@@ -208,6 +208,18 @@ nav .offcanvas{
     }
 }
 
-/* 991 768*/
+/* about me */
+.about-me{
+    height: 500px;
+    width: 100%;
+    background: var(--primary-color);
+    border-radius: 50px;
+}
+.about-me h1{
+    color: #fff;
+    position: relative;
+    left: 40px;
+    top: 40px;
+}
 
   
